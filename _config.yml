@@ -15,9 +15,7 @@ author: Gurman Dhaliwal
 
 navbar-links:
   Methods: "aboutme"
-  Results: 
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Results: "yolo"
   Author: "https://deanattali.com"
 
 # --- Logo --- #
