@@ -1,4 +1,4 @@
-# Methods Overview (make this 3 squares)
+# Methods Overview 
 There were 2 core phases of this project: informational interviews as well as data collection and analysis. 
 
 11 people were interviewed at the beginning of this project. The interviewees consisted of doulas, nonprofit leaders, doula trainers, and insurance liaisons.
