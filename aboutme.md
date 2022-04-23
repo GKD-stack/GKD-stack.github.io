@@ -4,8 +4,9 @@ title: About Me
 subtitle: A Student Researcher at UC San Diego
 ---
 
-Hi! My name is Gurman Dhaliwal, and I'm a second year undergraduate at University of California, San Diego studying Political Science and Data Science.
-If you have any questions, I can be contacted at gurmankdhaliwal2@gmail.com. 
+Hi! My name is Gurman Dhaliwal, and I'm a second year undergraduate at University of California, San Diego majoring in Data Science with a minor in Political Science.
+
+I can be contacted at gurmankdhaliwal2@gmail.com. 
 
 ### Special Thanks
 
