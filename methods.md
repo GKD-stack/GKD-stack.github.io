@@ -4,7 +4,7 @@ There were 2 core phases of this project: informational interviews as well as da
 ## Informational Interviews
 11 people were interviewed at the beginning of this project. The interviewees consisted of doulas, nonprofit leaders, doula trainers, and insurance liaisons.
 
-Additionally, The Childbirth Collective, a nonprofit in Minnesota, also provided a dataset from 20141-to 2018 with over 6000 doulas reporting their most recent birth. Key results can be found here.
+Additionally, The Childbirth Collective, a nonprofit in Minnesota, also provided a dataset from 2011-to 2018 with over 6000 doulas reporting their most recent birth. Key results can be found here.
 
 The informational interviews were conducted in a semistructured format. They were approximately 30-45 minutes in length and participants were offered 20 dollars in the form of an Amazon gift card as compensation. The interviews were analyzed through a traditional thematic coding method. All participants were given the choice to stay anonymous. 
 
