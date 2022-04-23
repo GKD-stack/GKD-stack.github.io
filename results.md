@@ -1,4 +1,4 @@
-# Key Results and Recommendations
+# Key Results & Recommendations
 
 # Links to Specific Topics
 
