@@ -5,12 +5,16 @@ insert at end
 
 ### Barriers to Training
 ![chart](assets/img/income and traniing.png)
+
+
 ![chart](assets/img/race training.png)
 
 table of challenges
 
 ### Barriers to Completing Application
 ![chart](assets/img/ethnicity and app.png)
+
+
 ![chart](assets/img/income app.png)
 
 table of challenges
