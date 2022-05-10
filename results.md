@@ -4,7 +4,7 @@
 insert at end 
 
 ### Barriers to Training
-![chart](assets/income and traniing.png)
+![chart](assets/img/income and traniing.png)
 ![chart](assets/img/race training.png)
 
 table of challenges
