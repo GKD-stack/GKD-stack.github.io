@@ -4,16 +4,22 @@
 insert at end 
 
 ### Barriers to Training
-![chart](/assets/income and traniing.png)
-![chart](/GKD-stack-github.io/assets/img/race training.png)
-<img align="left" src="images/assets/race training.png" width=200 > ![](assets/race training.png)
+![chart](assets/income and traniing.png)
+![chart](assets/img/race training.png)
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+table of challenges
 
 ### Barriers to Completing Application
 ![chart](assets/img/ethnicity and app.png)
-![chart](/GKD-stack-github.io/assets/img/income app.png)
+![chart](assets/img/income app.png)
 
-assets/img/race training.png
+table of challenges
 
 ### Legislation Effectiveness and Improvements
+
+3 barplots again?
+boxplots for actual payment and preffered payment 
+relationship between payment and length of labor
+there is a relationship btwn time and race tho, but must look at medical needs
+
+### Childbirth Collective: doula's impact on racial disparities on maternal and infant health
