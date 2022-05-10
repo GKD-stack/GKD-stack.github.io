@@ -20,6 +20,7 @@ table of challenges
 3 barplots again?
 boxplots for actual payment and preffered payment 
 relationship between payment and length of labor
+![chart](assets/img/payment-time.png)
 there is a relationship btwn time and race tho, but must look at medical needs
 
 ### Childbirth Collective: doula's impact on racial disparities on maternal and infant health
