@@ -10,6 +10,12 @@ insert at end
 ![chart](assets/img/race training.png)
 
 table of challenges
+| Barrier/State        | Minnesota      | Oregon        |
+| :---                 |     :---:      |          ---: |
+| Time                 | git status     | git status    |
+| Training Fees        | git diff       | git diff      |
+| Distance to Training | git status     | git status    |
+| Lack of Knowledge    | git diff       | git diff      |
 
 ### Barriers to Completing Application
 ![chart](assets/img/ethnicity and app.png)
@@ -18,6 +24,12 @@ table of challenges
 ![chart](assets/img/income app.png)
 
 table of challenges
+| Barrier/State        | Minnesota      | Oregon        |
+| :---                 |     :---:      |          ---: |
+| Time                 | git status     | git status    |
+| Training Fees        | git diff       | git diff      |
+| Distance to Training | git status     | git status    |
+| Lack of Knowledge    | git diff       | git diff      |
 
 ### Legislation Effectiveness and Improvements
 
