@@ -4,7 +4,7 @@
 insert at end 
 
 ### Barriers to Training
-![chart](/GKD-stack-github.io/assets/income and traniing.png)
+![chart](/assets/income and traniing.png)
 ![chart](/GKD-stack-github.io/assets/race training.png)
 <img align="left" src="images/assets/race training.png" width=200 > ![](assets/race training.png)
 
