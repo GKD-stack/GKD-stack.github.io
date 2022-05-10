@@ -10,6 +10,8 @@ insert at end
 ![chart](assets/img/race training.png)
 
 table of challenges
+
+
 | Barrier/State        | Minnesota      | Oregon        |
 | :---                 |     :---:      |          ---: |
 | Time                 | git status     | git status    |
@@ -24,6 +26,8 @@ table of challenges
 ![chart](assets/img/income app.png)
 
 table of challenges
+
+
 | Barrier/State        | Minnesota      | Oregon        |
 | :---                 |     :---:      |          ---: |
 | Time                 | git status     | git status    |
