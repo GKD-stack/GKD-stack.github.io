@@ -4,7 +4,11 @@
 insert at end 
 
 ### Barriers to Training
+![chart](/GKD-stack-github.io/assets/income and traniing.png)
+![chart](/GKD-stack-github.io/assets/race training.png)
 
 ### Barriers to Completing Application
+![chart](/GKD-stack-github.io/assets/ethnicity and app.png)
+![chart](/GKD-stack-github.io/assets/income app.png)
 
 ### Legislation Effectiveness and Improvements
