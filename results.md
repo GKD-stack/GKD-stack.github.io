@@ -1,16 +1,10 @@
-# Results & Recommendations
+# Results 
 
 ## Links to Specific Topics
+insert at end 
 
-### Question?
+### Barriers to Training
 
+### Barriers to Completing Application
 
-### Question?
-
-### Question?
-
-
-### Question?
-
-### Question?
-
+### Legislation Effectiveness and Improvements
