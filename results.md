@@ -11,7 +11,9 @@ insert at end
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ### Barriers to Completing Application
-![chart](/GKD-stack-github.io/assets/img/ethnicity and app.png)
+![chart](assets/img/ethnicity and app.png)
 ![chart](/GKD-stack-github.io/assets/img/income app.png)
+
+assets/img/race training.png
 
 ### Legislation Effectiveness and Improvements
