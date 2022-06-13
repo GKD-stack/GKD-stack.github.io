@@ -1,4 +1,4 @@
-## Background Information
+## Background and Purpose 
 
 Maternal mortality has been steadily declining worldwide, with one significant outlier: the United States. It is only 1 out of the 8 countries that have seen an increase in maternal mortality. Particularly, women of color are at a greater risk for preterm deliveries, smaller babies, preeclampsia, and high blood pressure, and 3-4 times more likely to die for pregnancy-related reasons than white women.
 
