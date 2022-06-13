@@ -14,6 +14,7 @@ author: Gurman Dhaliwal
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Background: "background"
   Methods: "methods"
   Results: "results"
   Childbirth Collective: "childbirthcollective"
