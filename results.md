@@ -53,11 +53,14 @@ training.
 
 The majority of participants from Oregon reported that their training was adequete and provided them the resources to work with a diverse array of clients. This is likely because Oregon has more flexibility in the centers that are allowed to provide doula training, which allows training centers to tailor their curriculumn to their local community. 
 
+### A Shared Background Matters
 
-3 barplots again?
-boxplots for actual payment and preffered payment 
-relationship between payment and length of labor
-![chart](assets/img/payment-time.png)
-there is a relationship btwn time and race tho, but must look at medical needs
+##### Survey Question
+##### "Having a similar background as your client enhances the results of your work"
+
+![chart](assets/img/sharedbackground.png)
+
+This survey confirmed that most doulas believe that having a shared background with their client
+increases their effectiveness. This ought to provide more incentive to alleviate barriers that affect disadvantaged doulas and ensure they're well represented in the profession. 
 
 
