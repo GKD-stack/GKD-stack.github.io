@@ -40,11 +40,18 @@ There are differences in the numbers of barriers faced by an applicant depending
 Minnesota and Oregon had drastically different barriers for completing and submitting the application. For both states participants reported that the states lack of response and communication was the most significant obstacle. Minnesota's process required less materials than but has a $200 applicantion fee. Oregon required more materials but the lack of appropriate technology to complete digital trainings and mandatory experience posed difficulties. 
 
 ### Legislation Effectiveness and Improvements
+![chart](assets/img/diversetraining.png)
 
+Despite having a similar population and survey representation, there is a notable difference between how effective participants rated the effectivenes of their state's legislation in regards to reaching disadvantaged clients. This disparity can be explained through some key attributes of each state's process. For example, Minnesota has a $200 application fee, whereas Oregon doesn't have one. Minnesota also offers only a handful of limited training centers, compared to Oregon, which has more flexibility. Additionally, Oregon had a grandfather clause that allowed the previous experience to be substituted for training that expired this past June. It is likely many participants of the survey applied or became doulas before the clause expired.
 
+![chart](assets/img/informalex.png)
 
+Regardless of state, the majority of participants are in favor of allowing informal experience (attending friends and family's births) as a substitution for formal
+training. 
 
+![chart](assets/img/trainingok.png)
 
+The majority of participants from Oregon reported that their training was adequete and provided them the resources to work with a diverse array of clients. This is likely because Oregon has more flexibility in the centers that are allowed to provide doula training, which allows training centers to tailor their curriculumn to their local community. 
 
 
 3 barplots again?
@@ -53,21 +60,4 @@ relationship between payment and length of labor
 ![chart](assets/img/payment-time.png)
 there is a relationship btwn time and race tho, but must look at medical needs
 
-### A More Detailed Breakdown of Responses
 
-#### Training Barriers 
-![chart](assets/img/income and traniing.png)
-
-
-![chart](assets/img/race training.png)
-
-
-#### App Barriers 
-
-![chart](assets/img/ethnicity and app.png)
-
-
-![chart](assets/img/income app.png)
-
-
-### Childbirth Collective: doula's impact on racial disparities on maternal and infant health
