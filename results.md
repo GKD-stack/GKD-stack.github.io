@@ -63,4 +63,18 @@ The majority of participants from Oregon reported that their training was adeque
 This survey confirmed that most doulas believe that having a shared background with their client
 increases their effectiveness. This ought to provide more incentive to alleviate barriers that affect disadvantaged doulas and ensure they're well represented in the profession. 
 
+### Preferred Reimbursement Rates
+
+| Barrier/State        | Oregon         | 
+| :---                 |     :---:      |  
+| Birth                | 1010           |
+| 3 Prenatal Visits    | 162            |
+| 3 Postpartum Visits  | 165            |
+
+| Barrier/State        | Minnesota      | 
+| :---                 |     :---:      |  
+| Birth                | 940            |
+| 2 Prenatal Visits    | 156            |
+| 2 Postpartum Visits  | 157            |
+
 
